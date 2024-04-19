@@ -55,9 +55,15 @@
 
 <br><br>
 
+### 📊 Estadísticas
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=less-dev&show_icons=true&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=less-dev&hide_progress=true&theme=transparent" />
 </p>
 
 <br><br>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
+</p>
+
