@@ -1,4 +1,4 @@
-<h3 align="center">Hola soy Less :dolphin:</h3>
+<h3 align="center">Hola, soy Less :dolphin:</h3>
 
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/less-dev?style=social">
