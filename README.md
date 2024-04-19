@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <strong>Un desarrollador colombiano,<br> enfocado en el desarrollo de aplicaciones android con el framework Jetpack Compose.</strong>
+   <img alt="GitHub stars" src="https://github.com/Less-dev/Less-dev/blob/main/banner.png" width="1000" height="300">
 </p>
+
 
 <h2 align="center">🛠 Tecnologías</h2>
 <p align="center">
