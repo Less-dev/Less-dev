@@ -126,7 +126,7 @@
 </p>
 
 <h2 align="center">📊 Estadísticas</h2>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=less-dev&show_icons=true&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=less-dev&hide_progress=true&theme=transparent" />
 </p>
