@@ -152,8 +152,9 @@
 
 [![Discord](https://img.shields.io/badge/Canal_Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/DWWqrwNy)
 
-[![Discord](https://img.shields.io/badge/gmail-C0C0C0?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:less.github@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-C0C0C0?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:less.github@gmail.com)
 
+[![Tiktok](https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=Tiktok&logoColor=white)](https://www.tiktok.com/@less.2007)
 
 <a align ="center" href=#><img src="contributions.svg"></a>
 
