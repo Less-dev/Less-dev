@@ -138,8 +138,15 @@
 
 <h3 align="center">Sobre mi 😊</h3>
 
-<p align="center"><strong><i>Mi nombre es Daniel 👋, soy un desarrollador de procedencia colombiana 🇨🇴, me enfoco en el desarrollo de aplicaciones android con el framework <a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT73wT-C3ekXDg_XRYq0gGIXuyBk09GzvPws86ksHL2P_Ox_5dN8TI4RoCOewQAvD_BwE&gclsrc=aw.ds" target="_blank">Jetpack Compose</a>, tengo 16 años 🥳, estoy dispuesto a aprender.
+<p align="center"><strong><i>Mi nombre es Daniel 👋, soy un desarrollador de procedencia colombiana 🇨🇴, me enfoco en el desarrollo de aplicaciones android con el framework <a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT73wT-C3ekXDg_XRYq0gGIXuyBk09GzvPws86ksHL2P_Ox_5dN8TI4RoCOewQAvD_BwE&gclsrc=aw.ds" target="_blank">Jetpack Compose</a>, tengo 16 años 🥳 y tengo 1 año y medio de experiencia desarrollando software y estoy dispuesto a aprender mucho más.
  </i></strong></p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
+</p>
+
+<h3 align="center">Contácteme 📱</h3>
+
 
 <a align ="center" href=#><img src="contributions.svg"></a>
 
