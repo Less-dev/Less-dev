@@ -147,6 +147,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LessGithub)
 
+[![WhatSapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/XR4TPL56Z6JAL1)
 
 
 <a align ="center" href=#><img src="contributions.svg"></a>
