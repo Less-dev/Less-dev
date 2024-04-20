@@ -135,6 +135,11 @@
 
 
 <a align ="center" href=#><img src="contributions.svg"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Sobre mi 😊</h3>
+
+<p align="center"><strong><i>Mi nombre es Daniel 👋, soy un desarrollador de procedencia colombiana 🇨🇴, me enfoco en el desarrollo de aplicaciones android con el framework <a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT73wT-C3ekXDg_XRYq0gGIXuyBk09GzvPws86ksHL2P_Ox_5dN8TI4RoCOewQAvD_BwE&gclsrc=aw.ds" target="_blank">Jetpack Compose</a>, tengo 16 años 🥳, estoy dispuesto a aprender.
+ </i></strong></p>
 
 
 
