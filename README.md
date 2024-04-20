@@ -125,9 +125,7 @@
   <img src="https://img.shields.io/badge/-Kotlin-F7DF1E?style=flat-square&logo=kotlin&logoColor=black" width="100" height="30" />
 </p>
 
-<br><br>
-
-### 📊 Estadísticas
+<h2 align="center">📊 Estadísticas</h2>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=less-dev&show_icons=true&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=less-dev&hide_progress=true&theme=transparent" />
