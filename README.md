@@ -145,6 +145,9 @@
 
 <h3 align="center">Contácteme 📱</h3>
 
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LessGithub)
+
+
 
 <a align ="center" href=#><img src="contributions.svg"></a>
 
