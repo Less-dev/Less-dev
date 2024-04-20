@@ -145,11 +145,14 @@
 
 <h3 align="center">Contácteme 📱</h3>
 
+
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LessGithub)
 
 [![WhatSapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/XR4TPL56Z6JAL1)
 
 [![Discord](https://img.shields.io/badge/Canal_Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/DWWqrwNy)
+
+[![Discord](https://img.shields.io/badge/gmail-C0C0C0?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:less.github@gmail.com)
 
 
 <a align ="center" href=#><img src="contributions.svg"></a>
