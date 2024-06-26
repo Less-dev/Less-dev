@@ -65,7 +65,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/216658113-c947be31-78e5-4064-9cb5-7d23b49164e6.gif" width="25" />
 <img src="https://user-images.githubusercontent.com/74038190/216658115-017b0125-1bba-409d-b789-c04362c0adfb.gif" width="25" />
 <img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" width="25" />
-<img src="https://user-images.githubusercontent.com/74038190/216658123-b1fdfa47-8605-467a-ab8b-0e87a792502.gif" width="25" />
 <img src="https://user-images.githubusercontent.com/74038190/216658127-de9ffd2f-9302-45f3-82f5-1fa66dafa691.gif" width="25" />
 <img src="https://user-images.githubusercontent.com/74038190/216658130-13d4140b-b57b-47b6-a19a-5547b42b47f6.gif" width="25" />
 <img src="https://user-images.githubusercontent.com/74038190/216658099-d7c8efef-4e2f-4cdb-8d4d-977a02bee0bc.gif" width="25" />
