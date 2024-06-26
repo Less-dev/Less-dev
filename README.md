@@ -4,6 +4,8 @@
   <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60" height="60" style="float: left;">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/less-dev?style=social">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/less-dev?style=social">
+  <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="60" height="60" style="float: right;">
+
 </p>
 
 <p align="center">
@@ -163,11 +165,9 @@
 <a href="mailto:less.github@gmail.com">
   <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" alt="WhatSapp" width="45" height="40">
 </a>
-
 </p>
 
 
-
-<a align ="center" href=#><img src="contributions.svg"></a>
+<a align ="center" href=#><img src="contributions.svg" width="1000"></a>
 
 
