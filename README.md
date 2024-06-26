@@ -130,7 +130,7 @@
 <h2 align="center">📚 Lenguajes</h2>
 <a href="https://kotlinlang.org/">
 <p align="center">
-  <img src="https://img.shields.io/badge/-Kotlin-8762CC?style=flat-square&logo=kotlin&logoColor=black" width="100" height="30" />
+  <img src="https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=kotlin&logoColor=black&labelColor=purple" width="100" height="30" />
 </p>
 </a>
 
