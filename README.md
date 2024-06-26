@@ -1,5 +1,6 @@
 <h3 align="center">Hola, soy Less :dolphin:</h3>
 
+
 <p align="center">
   <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60" height="60" style="float: left;">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/less-dev?style=social">
@@ -134,7 +135,11 @@
 </p>
 </a>
 
-<h2 align="center">📊 Estadísticas</h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" heigh="20">
+
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+
 <p align="center">
   <img src="github_stats.svg" alt="GitHub Stats">
 </p>
