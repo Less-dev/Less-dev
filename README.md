@@ -112,10 +112,10 @@
 
 <h2 align="center">🛠 Tecnologías</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Dagger_Hilt-4285F4?style=flat-square&logo=dagger&logoColor=white" width="120" height="30" />
+  <img src="https://img.shields.io/badge/-Dagger_Hilt-4285F4?style=flat-square&logo=android&logoColor=white" width="120" height="30" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" width="100" height="30" />
   <img src="https://img.shields.io/badge/-Jetpack_Compose-green?style=flat-square&logo=jetpackcompose&logoColor=black" width="160" height="30" />
-  <img src="https://img.shields.io/badge/-Room-red?style=flat-square&logo=database&logoColor=white" width="80" height="30" />
+  <img src="https://img.shields.io/badge/-Room-red?style=flat-square&logo=android&logoColor=white" width="80" height="30" />
 
 </p>
 
