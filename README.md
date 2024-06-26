@@ -142,29 +142,29 @@
 
 <h3 align="center">Contácteme 📱</h3>
 
-
+<p align="center">
 <a href="https://t.me/LessGithub">
-  <img src="https://holatelcel.com/wp-content/uploads/2021/10/logo-telegram-animado.gif" alt="WhatSapp" width="35" height="30">
+  <img src="https://holatelcel.com/wp-content/uploads/2021/10/logo-telegram-animado.gif" alt="WhatSapp" width="45" height="40">
 </a>
 
-
-
 <a href="https://wa.me/qr/XR4TPL56Z6JAL1">
-    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="WhatSapp" width="40" height="40">
+    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="WhatSapp" width="50" height="50">
 </a>
 
 
 <a href="https://discord.gg/DWWqrwNy">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" width="40" height="40">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" width="50" height="50">
 </a>
 
 <a href="https://www.tiktok.com/@less.2007">
-    <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" alt="Tiktok" width="40" height="40">
+    <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" alt="Tiktok" width="50" height="50">
 </a>
 
 <a href="mailto:less.github@gmail.com">
-  <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" alt="WhatSapp" width="35" height="30">
+  <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" alt="WhatSapp" width="45" height="40">
 </a>
+
+</p>
 
 
 
