@@ -145,13 +145,22 @@
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LessGithub)
 
-[![WhatSapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/XR4TPL56Z6JAL1)
-
-[![Discord](https://img.shields.io/badge/Canal_Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/DWWqrwNy)
-
 [![Gmail](https://img.shields.io/badge/gmail-C0C0C0?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:less.github@gmail.com)
 
-[![Tiktok](https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=Tiktok&logoColor=white)](https://www.tiktok.com/@less.2007)
+<a href="https://wa.me/qr/XR4TPL56Z6JAL1">
+    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="WhatSapp" width="40" height="40">
+</a>
+
+
+<a href="https://discord.gg/DWWqrwNy">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" width="40" height="40">
+</a>
+
+<a href="https://www.tiktok.com/@less.2007">
+    <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" alt="Tiktok" width="40" height="40">
+</a>
+
+
 
 <a align ="center" href=#><img src="contributions.svg"></a>
 
