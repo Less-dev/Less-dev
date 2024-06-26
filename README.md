@@ -143,9 +143,11 @@
 <h3 align="center">Contácteme 📱</h3>
 
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LessGithub)
+<a href="https://t.me/LessGithub">
+  <img src="https://holatelcel.com/wp-content/uploads/2021/10/logo-telegram-animado.gif" alt="WhatSapp" width="35" height="30">
+</a>
 
-[![Gmail](https://img.shields.io/badge/gmail-C0C0C0?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:less.github@gmail.com)
+
 
 <a href="https://wa.me/qr/XR4TPL56Z6JAL1">
     <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="WhatSapp" width="40" height="40">
@@ -158,6 +160,10 @@
 
 <a href="https://www.tiktok.com/@less.2007">
     <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" alt="Tiktok" width="40" height="40">
+</a>
+
+<a href="mailto:less.github@gmail.com">
+  <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" alt="WhatSapp" width="35" height="30">
 </a>
 
 
