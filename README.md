@@ -111,10 +111,22 @@
 
 <h2 align="center">🛠 Tecnologías</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Dagger_Hilt-4285F4?style=flat-square&logo=android&logoColor=white" width="120" height="30" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" width="100" height="30" />
-  <img src="https://img.shields.io/badge/-Jetpack_Compose-green?style=flat-square&logo=jetpackcompose&logoColor=black" width="160" height="30" />
-  <img src="https://img.shields.io/badge/-Room-red?style=flat-square&logo=android&logoColor=white" width="80" height="30" />
+  <a href="https://developer.android.com/training/dependency-injection/hilt-android">
+    <img src="https://img.shields.io/badge/-Dagger_Hilt-4285F4?style=flat-square&logo=android&logoColor=white" width="120" height="30" />
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" width="100" height="30" />
+  </a>
+  <a href="https://developer.android.com/develop/ui/compose">
+    <img src="https://img.shields.io/badge/-Jetpack_Compose-green?style=flat-square&logo=jetpackcompose&logoColor=black" width="160" height="30" />
+  </a>
+  <a href="https://developer.android.com/training/data-storage/room">
+    <img src="https://img.shields.io/badge/-Room-red?style=flat-square&logo=android&logoColor=white" width="80" height="30" />
+  </a>
+  
+  
+  
+  
 
 </p>
 
