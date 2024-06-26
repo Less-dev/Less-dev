@@ -123,18 +123,16 @@
   <a href="https://developer.android.com/training/data-storage/room">
     <img src="https://img.shields.io/badge/-Room-red?style=flat-square&logo=android&logoColor=white" width="80" height="30" />
   </a>
-  
-  
-  
-  
 
 </p>
 
 
 <h2 align="center">📚 Lenguajes</h2>
+<a href="https://kotlinlang.org/">
 <p align="center">
-  <img src="https://img.shields.io/badge/-Kotlin-F7DF1E?style=flat-square&logo=kotlin&logoColor=black" width="100" height="30" />
+  <img src="https://img.shields.io/badge/-Kotlin-8762CC?style=flat-square&logo=kotlin&logoColor=black" width="100" height="30" />
 </p>
+</a>
 
 <h2 align="center">📊 Estadísticas</h2>
 <p align="center">
