@@ -1,5 +1,14 @@
-<h3 align="center">Hola, soy Less :dolphin:</h3>
+<p align="center">
+   <img alt="GitHub stars" src="https://github.com/Less-dev/Less-dev/blob/main/banner.png" width="1000" height="300">
+</p>
 
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%ACE7EFF&size=30&center=true&vCenter=true&width=450&lines=Hola, soy +Less 🐬; ;Estudiante, 16 + años + de + vida;Desarrollador + Android;Apasionado + por + Kotlin;2 + años + de + experiencia; Jetpack + Compose ❤️"></a>
+</div>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
+</p>
 
 <p align="center">
   <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60" height="60" style="float: left;">
@@ -7,14 +16,6 @@
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/less-dev?style=social">
   <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="60" height="60" style="float: right;">
 
-</p>
-
-<p align="center">
-   <img alt="GitHub stars" src="https://github.com/Less-dev/Less-dev/blob/main/banner.png" width="1000" height="300">
-</p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 </p>
 
 <div align="center">
