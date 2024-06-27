@@ -1,5 +1,5 @@
 <p align="center">
-   <img alt="GitHub stars" src="https://github.com/Less-dev/Less-dev/blob/main/banner.png" width="1000" height="250">
+   <img alt="GitHub stars" src="https://github.com/Less-dev/Less-dev/blob/main/bannerNew.png" width="1000" height="275">
 </p>
 
 <div align="center">
