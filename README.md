@@ -110,32 +110,6 @@
 </div>
 <br><br> 
 
-
-<h2 align="center">🛠 Tecnologías</h2>
-<p align="center">
-  <a href="https://developer.android.com/training/dependency-injection/hilt-android">
-    <img src="https://img.shields.io/badge/-Dagger_Hilt-4285F4?style=flat-square&logo=android&logoColor=white" width="120" height="30" />
-  </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" width="100" height="30" />
-  </a>
-  <a href="https://developer.android.com/develop/ui/compose">
-    <img src="https://img.shields.io/badge/-Jetpack_Compose-green?style=flat-square&logo=jetpackcompose&logoColor=black" width="160" height="30" />
-  </a>
-  <a href="https://developer.android.com/training/data-storage/room">
-    <img src="https://img.shields.io/badge/-Room-red?style=flat-square&logo=android&logoColor=white" width="80" height="30" />
-  </a>
-
-</p>
-
-
-<h2 align="center">📚 Lenguajes</h2>
-<a href="https://kotlinlang.org/">
-<p align="center">
-  <img src="https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=kotlin&logoColor=black&labelColor=purple" width="100" height="30" />
-</p>
-</a>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" heigh="20">
 
 <p align="center">
@@ -151,6 +125,19 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" heigh="20">
 
+
+ <div align="center">
+
+| Mis Languajes, Tecnologías, & Bases de Datos |
+| :----: |
+| ![.Kotlin](https://img.shields.io/badge/Kotlin-5C2D91?style=for-the-badge&logo=Kotlin&logoColor=red) ![hilt](https://img.shields.io/badge/Dagger_hilt-%23E34F26.svg?style=for-the-badge&logo=android&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![room](https://img.shields.io/badge/room-%231572B6.svg?style=for-the-badge&logo=android&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) <br> ![Firebase](https://img.shields.io/badge/Firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=%23F7DF1E) ![Compose](https://img.shields.io/badge/Jetpack_Compose-6DA55F?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-%234285F4.svg?style=for-the-badge&logo=mysql&logoColor=black) ![SQLITE](https://img.shields.io/badge/SQLITE-%234285F4.svg?style=for-the-badge&logo=sqlite&logoColor=black) ![Android_Studio](https://img.shields.io/badge/Android_Studio-blue.svg?style=for-the-badge&logo=androidstudio&logoColor=FF234285) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)|
+
+| Learning |
+| :----: |
+| ![Kotlin_Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-5C2D91?style=for-the-badge&logo=Kotlin&logoColor=red)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)|
+
+</div>
 
 <h3 align="center">Sobre mi 😊</h3>
 
