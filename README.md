@@ -1,6 +1,14 @@
+<!-- 
 <p align="center">
    <img alt="GitHub stars" src="https://github.com/Less-dev/Less-dev/blob/main/bannerNew.png" width="1000" height="275">
 </p>
+-->
+
+<p align="center">
+   <img alt="GitHub stars" src="https://github.com/Less-dev/Less-dev/blob/main/bannerNew.png" width="1000" height="275">
+</p>
+
+
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%ACE7EFF&size=30&center=true&vCenter=true&width=450&lines=Hola, soy +Less 🐬; ;Estudiante, 17 + años + de + vida;Desarrollador + Android;Apasionado + por + Kotlin;2 + años + de + experiencia; Jetpack + Compose ❤️"></a>
