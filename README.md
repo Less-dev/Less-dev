@@ -168,7 +168,7 @@
 <img src="https://i.imgur.com/YCw47Dm.gif">
 
 <p align="center">
-  <img src="github_stats.svg" alt="GitHub Stats">
+  <img src="stats.svg" alt="GitHub Stats">
 </p>
 
 <div align="center">
