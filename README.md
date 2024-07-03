@@ -232,9 +232,21 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" alt="Tiktok" width="50" height="50">
 </a>
 
+<a href="https://www.facebook.com/profile.php?id=61561662639531">
+  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="facebook" width="50" height="50">
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61561662639531">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="instagram" width="50" height="50">
+</a>
+
 <a href="mailto:less.github@gmail.com">
   <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" alt="WhatSapp" width="45" height="40">
 </a>
+
+
+
+
 </p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
