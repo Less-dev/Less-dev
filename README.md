@@ -196,6 +196,10 @@
 <p align="center"><strong><i>Mi nombre es Daniel 👋, soy un desarrollador de procedencia colombiana 🇨🇴, me enfoco en el desarrollo de aplicaciones android con el framework <a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT73wT-C3ekXDg_XRYq0gGIXuyBk09GzvPws86ksHL2P_Ox_5dN8TI4RoCOewQAvD_BwE&gclsrc=aw.ds" target="_blank">Jetpack Compose</a>, tengo 17 años de vida 🥳 y tengo 2 años de experiencia desarrollando software y estoy dispuesto a aprender mucho más. Este es mi <a href="https://less-dev.github.io/"> portafolio</a>.
  </i></strong></p>
 
+ <p align="center">
+   <img alt="GitHub stars" src="https://github.com/Less-dev/Less-dev/assets/166412593/9d4a04db-c426-4bd6-8ef2-bab185953cb9" width="200" height="150">
+</p>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 </p>
