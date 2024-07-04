@@ -241,7 +241,7 @@
 </a>
 
 <a href="mailto:less.github@gmail.com">
-  <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" alt="WhatSapp" width="45" height="40">
+  <img src="https://github.com/Less-dev/Less-dev/assets/166412593/985ee0d7-ae8d-40f2-906e-07c81b2d72b1" alt="WhatSapp" width="50" height="50">
 </a>
 
 
