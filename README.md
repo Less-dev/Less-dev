@@ -180,7 +180,7 @@
 </p>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=less-dev&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Commits,PullRequest,Repositories,Organitations,Issues,Starts">
+<img src="https://github-profile-trophy.vercel.app/?username=Less-dev&theme=matrix&margin-w=5">
  </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" heigh="20">
