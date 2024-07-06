@@ -10,9 +10,11 @@
 
 
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%ACE7EFF&size=30&center=true&vCenter=true&width=450&lines=Hola, soy +Less 🐬; ;Estudiante, 17 + años + de + vida;Desarrollador + Android;Apasionado + por + Kotlin;2 + años + de + experiencia; Jetpack + Compose ❤️"></a>
-</div>
+
+   <!--
+       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%ACE7EFF&size=30&center=true&vCenter=true&width=450&lines=Hola, soy +Less 🐬; ;Estudiante, 17 + años + de + vida;Desarrollador + Android;Apasionado + por + Kotlin;2 + años + de + experiencia; Jetpack + Compose ❤️"></a>
+   -->
+   <img src="https://readme-typing-svg.demolab.com/?font=Patrick+Hand+SC&size=48&duration=2000&pause=300&color=B6F72E&width=650&height=100&lines=Hola%2C+soy+Less+🐬;Desarollador+Mobile;17+años; Apasionado+por+Kotlin;y Jetpack+Compose;S%C3%ADgueme+%E2%9D%A4%EF%B8%8F">
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
