@@ -1,0 +1,26 @@
+name: Daily Commit
+
+on:
+  schedule:
+    - cron: '43 8 * * *'  # Esto ejecuta la acción todos los días a las 8:43 AM UTC
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        ref: snake  # Aquí especificas la rama que quieres usar
+
+    - name: Modify file
+      run: echo "$(date)" > file.txt  # Cambia esto según el archivo que quieras modificar
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "your-username"
+        git config --global user.email "your-email@example.com"
+        git add file.txt
+        git commit -m "Daily update $(date)"
+        git push origin develop  # Aquí especificas la rama en la que quieres hacer push
