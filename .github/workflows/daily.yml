@@ -20,6 +20,6 @@ jobs:
       run: |
         git config --global user.name less-dev
         git config --global user.email less.github@gmail.com
-        git add file.txt
+        git add date.txt
         git commit -m "Daily update $(date)"
         git push origin develop  # Aquí especificas la rama en la que quieres hacer push
