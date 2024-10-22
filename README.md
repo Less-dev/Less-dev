@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-   <img alt="GitHub stars" src="https://github.com/Less-dev/Less-dev/blob/main/banner.png" width="1000">
+   <img alt="GitHub stars" src="https://github.com/user-attachments/assets/dcb55a1c-4257-44a7-bea3-221ff8f741a7">
 </p>
 
 
