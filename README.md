@@ -8,13 +8,10 @@
    <img alt="GitHub stars" src="https://github.com/user-attachments/assets/dcb55a1c-4257-44a7-bea3-221ff8f741a7">
 </p>
 
-
-
-
    <!--
        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%ACE7EFF&size=30&center=true&vCenter=true&width=450&lines=Hola, soy +Less 🐬; ;Estudiante, 17 + años + de + vida;Desarrollador + Android;Apasionado + por + Kotlin;2 + años + de + experiencia; Jetpack + Compose ❤️"></a>
    -->
-   <img src="https://readme-typing-svg.demolab.com/?font=Patrick+Hand+SC&size=48&duration=2000&pause=300&color=B6F72E&width=650&height=100&lines=Hola%2C+soy+Less+🐬;Desarollador+Mobile;17+años; Apasionado+por+Kotlin;y Jetpack+Compose;S%C3%ADgueme+%E2%9D%A4%EF%B8%8F">
+   <img src="https://readme-typing-svg.demolab.com/?font=Patrick+Hand+SC&size=48&duration=2000&pause=300&color=B6F72E&width=650&height=100&lines=Hola%2C+soy+Less+🐬;Desarollador+Mobile;Full+Stack;Tengo+17+años+de+vida; Amo+Kotlin; 4+años+de+experiencia;desarrollando+software;Más+de+10+commits+diarios; Me+gusta+BombSquad+:); bye+bye+...+:)">
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
@@ -203,7 +200,7 @@
 
 <h3 align="center">Sobre mi 😊</h3>
 
-<p align="center"><strong><i>Mi nombre es Daniel 👋, soy un desarrollador de procedencia colombiana 🇨🇴, me enfoco en el desarrollo de aplicaciones android con el framework <a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT73wT-C3ekXDg_XRYq0gGIXuyBk09GzvPws86ksHL2P_Ox_5dN8TI4RoCOewQAvD_BwE&gclsrc=aw.ds" target="_blank">Jetpack Compose</a>, tengo 17 años de vida 🥳 y tengo 2 años de experiencia desarrollando software y estoy dispuesto a aprender mucho más. Este es mi <a href="https://less-dev.github.io/"> portafolio</a>.
+<p align="center"><strong><i>Mi nombre es Daniel 👋, soy un desarrollador de procedencia colombiana 🇨🇴, me enfoco en el desarrollo de aplicaciones android con el framework <a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT73wT-C3ekXDg_XRYq0gGIXuyBk09GzvPws86ksHL2P_Ox_5dN8TI4RoCOewQAvD_BwE&gclsrc=aw.ds" target="_blank">Jetpack Compose</a>, tengo 17 años de vida 🥳 y tengo 4 años de experiencia desarrollando software y estoy dispuesto a aprender mucho más. Este es mi <a href="https://less-dev.github.io/"> portafolio</a>.
  </i></strong></p>
 
  <p align="center">
